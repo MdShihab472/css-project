@@ -1,0 +1,119 @@
+.gird-1{
+    border: 1px solid #ffffff;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+.gird-2{
+font-size: 24px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #ffffff;
+cursor: pointer;
+}
+.gird-2:hover{
+    color: #202020;
+    }
+.gird-5{
+    color: #f79f24;
+}
+.grid-image{
+    border: 1px solid black;
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+}
+.gird-3{
+    color: #7d7c7d;
+}
+.gird-4{
+    color: #c2b4a2;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.flex{
+    border: 1px solid #ffffff;
+    margin-top: 20px;
+    background-color: #ffffff;
+    height: 54px;
+    gap: 305px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.navbar-1{
+    border: 1px solid #ffffff;
+    display: inline; 
+    margin-top: 40px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #202020;
+}
+.navbar:hover{
+   border: 1px solid #ffffff;
+   color: #fffff8;
+   background-color: #f79f24;
+   cursor: pointer;
+}
+.navbar-2{
+    border: 1px solid #ffffff;
+    display: inline; 
+    margin-top: 40px;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #202020;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.image-1{
+    border: 1px solid #f1f1f1;
+    height: 425px;
+    width: 1250px;
+}
+.content-first{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f79f24;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 104px;
+}
+.content-two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333;
+    text-align: center;
+    font-size: 24px;
+}
+.grid-container-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 93px;
+    margin-left: 160px;
+}
+.grid-content-one{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #000000;
+}
+.grid-content-two{
+font-family: sans-serif;
+font-size: 14px;
+color: #898989;
+margin-top: 30px;
+}
+.grid-button{
+border-bottom: 1px solid  #e6e6e6;
+color: #333333;
+display: inline;
+margin-top: 34px;
+cursor: pointer;
+}
+.grid-content-first{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #000000;
+    margin-top: 45px;
+}
+
+
