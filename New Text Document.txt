@@ -1,0 +1,15 @@
+1. <i class="fas fa-car-wrench"></i>
+2. <i class="fas fa-car-battery"></i>
+3.<i class="fas fa-truck-tow"></i>
+4.<i class="fas fa-tire"></i>
+5.<i class="fas fa-screwdriver-wrench"></i>
+6.<i class="fas fa-cogs"></i>
+
+
+
+
+<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center mb-4 mb-sm-0" style="background-image:url(images/about.jpg);">
+    					<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+    						<span class="fa fa-play"></span>
+    					</a>
+    				</div>
